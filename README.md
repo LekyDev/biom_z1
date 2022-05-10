@@ -1,4 +1,4 @@
-# biom_z1
+# Pupil and iris detection
 Detecting pupil and iris 
 
 Trying GUI in OpenCV library
